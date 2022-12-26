@@ -1,0 +1,15 @@
+/Users/igorklevzhits/Desktop/HWC#/HomeWork009/Task064/bin/Debug/net7.0/Task064
+/Users/igorklevzhits/Desktop/HWC#/HomeWork009/Task064/bin/Debug/net7.0/Task064.deps.json
+/Users/igorklevzhits/Desktop/HWC#/HomeWork009/Task064/bin/Debug/net7.0/Task064.runtimeconfig.json
+/Users/igorklevzhits/Desktop/HWC#/HomeWork009/Task064/bin/Debug/net7.0/Task064.dll
+/Users/igorklevzhits/Desktop/HWC#/HomeWork009/Task064/bin/Debug/net7.0/Task064.pdb
+/Users/igorklevzhits/Desktop/HWC#/HomeWork009/Task064/obj/Debug/net7.0/Task064.csproj.AssemblyReference.cache
+/Users/igorklevzhits/Desktop/HWC#/HomeWork009/Task064/obj/Debug/net7.0/Task064.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorklevzhits/Desktop/HWC#/HomeWork009/Task064/obj/Debug/net7.0/Task064.AssemblyInfoInputs.cache
+/Users/igorklevzhits/Desktop/HWC#/HomeWork009/Task064/obj/Debug/net7.0/Task064.AssemblyInfo.cs
+/Users/igorklevzhits/Desktop/HWC#/HomeWork009/Task064/obj/Debug/net7.0/Task064.csproj.CoreCompileInputs.cache
+/Users/igorklevzhits/Desktop/HWC#/HomeWork009/Task064/obj/Debug/net7.0/Task064.dll
+/Users/igorklevzhits/Desktop/HWC#/HomeWork009/Task064/obj/Debug/net7.0/refint/Task064.dll
+/Users/igorklevzhits/Desktop/HWC#/HomeWork009/Task064/obj/Debug/net7.0/Task064.pdb
+/Users/igorklevzhits/Desktop/HWC#/HomeWork009/Task064/obj/Debug/net7.0/Task064.genruntimeconfig.cache
+/Users/igorklevzhits/Desktop/HWC#/HomeWork009/Task064/obj/Debug/net7.0/ref/Task064.dll
